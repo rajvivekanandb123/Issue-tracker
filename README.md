@@ -22,25 +22,7 @@
 ```
 ## 🪛Built With
 🟠NODEJS 🟠ExpressJS 🟠MongoDB 🟠mongoose 🟠EJS 
-## 🖼️Screenshots
-🔴 Landing Page
-![Screenshot_1](https://user-images.githubusercontent.com/125384723/226373936-99d39111-9492-4d04-b5d5-e746725fb1cf.png)
 
-🔴Create Project View
-![Screenshot_6](https://user-images.githubusercontent.com/125384723/226374440-d4dddba0-a1b1-46f8-9de4-bcce3e42e485.png)
-
-🔴Project Issues Page
-![Screenshot_3](https://user-images.githubusercontent.com/125384723/226374702-63c5f321-a5cc-4848-8433-4b00a762a184.png)
-
-🔴All Issues 
-
-![Screenshot_2](https://user-images.githubusercontent.com/125384723/226375138-bd4368b9-8c67-4f7d-aeb0-9c00b71e3189.png)
-
-🔴Filter by Label
-![Screenshot_5](https://user-images.githubusercontent.com/125384723/226375588-376d22bd-4126-444f-a649-f5a65b4369ea.png)
-
-🔴Search by Title or Description
-![Screenshot_4](https://user-images.githubusercontent.com/125384723/226375745-ed27abe8-ad6a-44e2-b5df-d7b5cafc8e26.png)
 
 ## ✨Features
 
